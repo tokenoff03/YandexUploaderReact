@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+
+
+.active {
+  border-color: #33cc33;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
